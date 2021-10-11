@@ -26,3 +26,6 @@ for comparison.
 
 ### Note:
 Algorithms and analysis have been removed from this repository for privacy.
+
+## UI Sample:
+![image](https://user-images.githubusercontent.com/55768082/136721093-2a09f76a-41ea-45e9-ab2a-859e1e3adb6e.png)
