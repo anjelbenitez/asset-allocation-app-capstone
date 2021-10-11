@@ -34,4 +34,4 @@ Algorithms and analysis have been removed from this repository for privacy.
 ![image](https://user-images.githubusercontent.com/55768082/136721212-72462961-cc06-4230-be02-ca70899940e2.png)
 
 ## UI Sample:
-![image](https://user-images.githubusercontent.com/55768082/136721093-2a09f76a-41ea-45e9-ab2a-859e1e3adb6e.png)
+![image](https://user-images.githubusercontent.com/55768082/136721246-513fb6d0-55ca-4940-9918-3a17552bb068.png)
