@@ -27,5 +27,11 @@ for comparison.
 ### Note:
 Algorithms and analysis have been removed from this repository for privacy.
 
+## TQQQ Backtest Results:
+![image](https://user-images.githubusercontent.com/55768082/136721188-9e04bebd-7601-4404-a34c-f7a3041ed744.png)
+
+## TQQQ Equity Overview:
+![image](https://user-images.githubusercontent.com/55768082/136721212-72462961-cc06-4230-be02-ca70899940e2.png)
+
 ## UI Sample:
 ![image](https://user-images.githubusercontent.com/55768082/136721093-2a09f76a-41ea-45e9-ab2a-859e1e3adb6e.png)
