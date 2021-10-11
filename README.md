@@ -25,7 +25,7 @@ for comparison.
 5.	The recommendation is presented to the user.
 
 ### Note:
-Algorithms and analysis have been removed from this repository for privacy.
+Files related to trading algorithm and analysis have been removed from this repository for privacy.
 
 ## TQQQ Backtest Results using QuantConnect:
 ![image](https://user-images.githubusercontent.com/55768082/136721188-9e04bebd-7601-4404-a34c-f7a3041ed744.png)
