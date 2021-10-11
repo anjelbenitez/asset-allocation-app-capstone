@@ -16,5 +16,13 @@ individually and combined over different time periods, experimenting with differ
 resolutions, and writing code for other widely used trading strategies in QuantConnect
 for comparison.
 
+## Use case:
+
+1.	The user selects an asset (TQQQ, UPRO, TNA to start)
+2.	The system acquires end-of-day data for the selected asset (OHLC)
+3.	Using the data, an algorithm produces buy/sell signals.
+4.	The buy/sell signals are transformed into an allocation recommendation. (%)
+5.	The recommendation is presented to the user.
+
 ### Note:
 Algorithms and analysis have been removed from this repository for privacy.
