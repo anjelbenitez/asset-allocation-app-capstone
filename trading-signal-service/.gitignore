@@ -1,0 +1,9 @@
+.idea
+static
+venv
+env
+environment.py
+__pycache__
+.DS_Store
+.env
+.vscode
